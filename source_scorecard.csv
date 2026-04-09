@@ -1,0 +1,6 @@
+source,total_deals,won,reached_offer,win_rate,avg_days,avg_revenue,total_deal_value,vol_score,value_score,composite
+Conference,119,8,21,30.8,37,67.5,3108.2,100,100,72.3
+Intermediary,97,13,26,56.5,32,98.2,2492.7,81.5,80.2,71.1
+Referral,96,7,18,36.8,24,72.4,2590.4,80.7,83.3,63.9
+Direct Outreach,99,4,19,28.6,24,43.7,2329,83.2,74.9,58.9
+Proprietary,89,5,25,33.3,31,60.3,2264.7,74.8,72.9,57.6

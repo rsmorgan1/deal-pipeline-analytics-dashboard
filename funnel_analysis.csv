@@ -1,0 +1,5 @@
+stage,deals_reached,stage_order,pct_of_total,stage_conversion,deals_dropped
+Reviewed,500,1,100,NA,NA
+Indication,267,2,53.4,53.4,233
+Offer,109,3,21.8,40.8,158
+Closed - Won,37,4,7.4,33.9,72

@@ -1,0 +1,14 @@
+{
+  "total_deals": 500,
+  "active_deals": 327,
+  "closed_won": 37,
+  "closed_lost": 60,
+  "passed": 76,
+  "overall_win_rate": 38.1,
+  "avg_days_to_close": 79,
+  "median_days_to_close": 60,
+  "total_pipeline_value": 12785,
+  "avg_deal_size": 30.3,
+  "platform_pct": 65,
+  "healthcare_pct": 51
+}

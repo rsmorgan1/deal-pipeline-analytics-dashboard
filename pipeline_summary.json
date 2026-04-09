@@ -1,0 +1,70 @@
+{
+  "total_deals": 500,
+  "won": 37,
+  "lost": 60,
+  "passed": 76,
+  "active": 327,
+  "win_rate": 38.1,
+  "avg_days_pipeline": 29,
+  "median_days": 18,
+  "by_industry": [
+    {
+      "industry": "Education",
+      "Active": 61,
+      "Lost": 11,
+      "Passed": 14,
+      "Won": 7
+    },
+    {
+      "industry": "Healthcare",
+      "Active": 166,
+      "Lost": 26,
+      "Passed": 43,
+      "Won": 20
+    },
+    {
+      "industry": "Technology-Enabled Services",
+      "Active": 100,
+      "Lost": 23,
+      "Passed": 19,
+      "Won": 10
+    }
+  ],
+  "by_source": [
+    {
+      "source": "Conference",
+      "Active": 78,
+      "Lost": 18,
+      "Passed": 15,
+      "Won": 8
+    },
+    {
+      "source": "Direct Outreach",
+      "Active": 70,
+      "Lost": 10,
+      "Passed": 15,
+      "Won": 4
+    },
+    {
+      "source": "Intermediary",
+      "Active": 61,
+      "Lost": 10,
+      "Passed": 13,
+      "Won": 13
+    },
+    {
+      "source": "Proprietary",
+      "Active": 59,
+      "Lost": 10,
+      "Passed": 15,
+      "Won": 5
+    },
+    {
+      "source": "Referral",
+      "Active": 59,
+      "Lost": 12,
+      "Passed": 18,
+      "Won": 7
+    }
+  ]
+}
