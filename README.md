@@ -2,7 +2,7 @@
 
 An interactive analytics dashboard for a simulated private equity deal pipeline. This project demonstrates funnel analysis, conversion rate tracking, source/intermediary scoring, and time-to-close metrics using R for data engineering and Tableau Public for interactive visualization.
 
-**All data is entirely synthetic.** No proprietary or confidential information is used. Dataset extends [Project 1: CRM Data Quality Audit](../project-1-crm-data-quality-audit/) with stage progression history.
+**All data is entirely synthetic.** No proprietary or confidential information is used. Dataset extends [Project 1: CRM Data Quality Audit](https://github.com/rsmorgan1/crm-data-quality-audit) with stage progression history.
 
 ---
 
@@ -136,4 +136,4 @@ R (tidyverse, ggplot2, lubridate) · Tableau Public · Data Visualization · Fun
 
 ## Related Projects
 
-- [Project 1: CRM Data Quality Audit](../project-1-crm-data-quality-audit/) — The source dataset and quality framework
+- [Project 1: CRM Data Quality Audit](https://github.com/rsmorgan1/crm-data-quality-audit) -  The source dataset and quality framework
